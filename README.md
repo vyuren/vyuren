@@ -8,16 +8,20 @@
     </td>
     <!-- Coluna 2: Seu Card de Estatísticas -->
     <td>
-      <img src=https://github-stats-extended.vercel.app/api?username=vyuren&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox>
+      <img src="https://github-stats-extended.vercel.app/api?username=vyuren&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox">
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=vyuren&layout=donut&langs_count=4&theme=gruvbox">
     </td>
   </tr>
 </table>
 
+## Tecnologias
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,java,spring,python,html,css,javascript,react,nodejs,bash,mysql,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,linux,java,spring,python,html,css,javascript,react,nodejs,bash,mysql,obsidian,figma" />
   </a>
 </p>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=vyuren&layout=pie&langs_count=5&theme=gruvbox" alt="Estatísticas">
 
